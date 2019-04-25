@@ -5,8 +5,8 @@ I'll be uploading a whole bunch of scripts that preform simple tasks using ahk. 
 ## Request/Contact
 
 If you want a specific script feel free to contact me on
-Discord: RudySPG#1337
-Twitter: [RudySPG](https://twitter.com/RudySPG)
+* Discord: RudySPG#1337
+* Twitter: [RudySPG](https://twitter.com/RudySPG)
 
 ## Development Tools
 
