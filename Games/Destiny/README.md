@@ -53,7 +53,7 @@ File : `afk_simple.ahk`
 
 ### Info
 
-[![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Patched-red.svg)](https://shields.io/)
 File : `delay_time.ahk`
 - Delays the timer in the zero hour mission
 - Start the script as soon as your screen black launching the mission
