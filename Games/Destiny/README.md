@@ -10,7 +10,7 @@ If you have any questions you can message me or the devs of any of the scripts
 - [Zero Hour Delay](#zero-hero-time-delay)
 - [Spam Shooting](#spam-shooting)
 - [Titan Skating](#titan-skating)
-- [Pursuit Bind](#pursuit-bind)
+- [Pursuit Bind](#pursuits-bind)
 
 
 
@@ -73,6 +73,7 @@ File : `delay_time.ahk`
 [![Generic badge](https://img.shields.io/badge/Status-Patched-red.svg)](https://shields.io/)\
 File : `primary_click_loop.ahk`
 - Spams the shoot key for destiny
+- Used for damage bug on Cebrerus+1
 
 ### Usuage
 
@@ -108,3 +109,4 @@ File : `pursuits_keybind.ahk`
 ### Usuage
 
 - `p` Pursuits Tab
+- `Numpad 0` Exit Script
