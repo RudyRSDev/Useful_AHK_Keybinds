@@ -5,7 +5,7 @@ If you have any questions you can message me or the devs of any of the scripts
 
 ## Script & Usuage 
 
--[AFK Forge](#afk forge)
+-[AFK Forge](#afk-forge)
 -[]()
 -[]()
 -[]()
