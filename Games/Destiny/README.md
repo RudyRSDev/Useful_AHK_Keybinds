@@ -20,6 +20,7 @@ If you have any questions you can message me or the devs of any of the scripts
 
 [![Generic badge](https://img.shields.io/badge/Status-Patched-red.svg)](https://shields.io/)\
 File : `afk_forge.ahk`
+- Only works in 1920 x 1080
 - This script re-queues for forge after one is finished
 - Start the script at the main directory
 
