@@ -8,7 +8,7 @@ If you have any questions you can message me or the devs of any of the scripts
 ## Script & Usuage 
 
 - [Hunter Skating](#hunter-skating)
-- [Titan Skating 2.0](#titan-skating-2.0)
+- [Titan Skating 2.0](#titan-skating-beyond-light)
 - [AFK Forge](#afk-forge)
 - [AFK Script](#afk-script)
 - [Zero Hour Delay](#zero-hero-time-delay)
@@ -23,7 +23,7 @@ If you have any questions you can message me or the devs of any of the scripts
 ### Info
 
 [![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
-File : `afk_simple.ahk`
+File : `hunter_skating.ahk`
 - Consistent way to skate with Hunter
 - Have Stomp-EE5 equiped
 - Sprint but don't hold the sprint button just press it
@@ -42,7 +42,7 @@ File : `afk_simple.ahk`
 ### Info
 
 [![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
-File : `afk_simple.ahk`
+File : `titan_skating.ahk`
 - Consistent way to skate with Hunter
 - Optional have Lion Rampant equiped
 - Sprint but don't hold the sprint button just press it
