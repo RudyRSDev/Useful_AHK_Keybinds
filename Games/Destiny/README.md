@@ -43,7 +43,7 @@ File : `hunter_skating.ahk`
 
 [![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
 File : `titan_skating.ahk`
-- Consistent way to skate with Hunter
+- Consistent way to skate with Titan
 - Optional have Lion Rampant equiped
 - Sprint but don't hold the sprint button just press it
 
