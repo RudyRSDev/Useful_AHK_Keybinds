@@ -33,7 +33,7 @@ File : `hunter_skating.ahk`
 - `z` Trigger Skate
 - `Numpad 0` Exit Script
 
-![-](https://imgur.com/g7d42ah.gif)
+![-](hunter-s.gif)
 
 
 
@@ -52,7 +52,7 @@ File : `titan_skating.ahk`
 - `z` Trigger Skate
 - `Numpad 0` Exit Script
 
-![-](https://imgur.com/g3qbGsD.gif)
+![-](titan-s.gif)
 
 
 
