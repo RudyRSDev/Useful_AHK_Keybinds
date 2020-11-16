@@ -46,6 +46,7 @@ File : `titan_skating.ahk`
 - Consistent way to skate with Titan
 - Optional have Lion Rampant equiped
 - Sprint but don't hold the sprint button just press it
+- Sometimes it doesnt give you a melee ability back, just melee again and it will recharge
 
 ### Usuage
 
