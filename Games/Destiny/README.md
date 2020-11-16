@@ -3,14 +3,57 @@
 Thse Scripts have pretty much have been used since launch without any bans.
 If you have any questions you can message me or the devs of any of the scripts
 
+:warning: AutoHotKey might need to be run as Admin :warning:
+
 ## Script & Usuage 
 
+- [Hunter Skating](#hunter-skating)
+- [Titan Skating 2.0](#titan-skating-2.0)
 - [AFK Forge](#afk-forge)
 - [AFK Script](#afk-script)
 - [Zero Hour Delay](#zero-hero-time-delay)
 - [Spam Shooting](#spam-shooting)
-- [Titan Skating](#titan-skating)
+- [Titan Skating 1.0](#titan-skating)
 - [Pursuit Bind](#pursuits-bind)
+
+
+
+## Hunter Skating
+
+### Info
+
+[![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
+File : `afk_simple.ahk`
+- Consistent way to skate with Hunter
+- Have Stomp-EE5 equiped
+- Sprint but don't hold the sprint button just press it
+
+### Usuage
+
+- `z` Trigger Skate
+- `Numpad 0` Exit Script
+
+![](https://imgur.com/g7d42ah)
+
+
+
+## Titan Skating Beyond Light
+
+### Info
+
+[![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
+File : `afk_simple.ahk`
+- Consistent way to skate with Hunter
+- Optional have Lion Rampant equiped
+- Sprint but don't hold the sprint button just press it
+
+### Usuage
+
+- `z` Trigger Skate
+- `Numpad 0` Exit Script
+
+![](https://imgur.com/g3qbGsD)
+
 
 
 
@@ -86,7 +129,7 @@ File : `primary_click_loop.ahk`
 
 ### Info
 
-[![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/Status-Patched-red.svg)](https://shields.io/)\
 File : `toggle_skating.ahk`
 - this script is a toggle for titan skating
 
