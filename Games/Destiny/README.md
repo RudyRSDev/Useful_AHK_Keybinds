@@ -11,6 +11,8 @@ If you have any questions you can message me or the devs of any of the scripts
 - [Titan Skating 2.0](#titan-skating-beyond-light)
 - [AFK Forge](#afk-forge)
 - [AFK Script](#afk-script)
+- [AFK XP Thrall Way](#afk-thrall-way)
+- [AFK XP Moon](#afk-xp-moon)
 - [Zero Hour Delay](#zero-hero-time-delay)
 - [Spam Shooting](#spam-shooting)
 - [Titan Skating 1.0](#titan-skating)
@@ -93,7 +95,26 @@ File : `afk_simple.ahk`
 - `k` Stop
 - `Numpad 0` Exit Script
 
+## AFK Thrall Way
 
+### Info
+
+[![Generic badge](https://img.shields.io/badge/Status-Patched-red.svg)](https://shields.io/)\
+- Pending Info Update
+
+
+## AFK XP Moon
+
+### Info
+
+[![Generic badge](https://img.shields.io/badge/Status-Working-green.svg)](https://shields.io/)\
+- Pending Info Update
+
+### Usuage
+
+- `x` Start
+- `F5` Stop
+- `F9` Exit Script
 
 ## Zero Hero Time Delay
 
