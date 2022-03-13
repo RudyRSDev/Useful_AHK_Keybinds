@@ -12,7 +12,7 @@ x::
         send {w up}
         sleep 500
         send g
-        sleep 3500
+        sleep 3250
     }
 }
 Return
