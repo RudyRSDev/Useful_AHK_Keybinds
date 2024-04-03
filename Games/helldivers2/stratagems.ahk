@@ -12,11 +12,19 @@ return
 2::resupply()
 return
 
-3::sos()
+3::eagle500Bomb()
 return
 
-x::mortarSentry()
+4::orbitalRailcannonStrike()
 return
+
+5::guardDogRover()
+return
+
+6::arcThrower()
+return
+
+; You can add more keybinds here
 
 ; ---===[ Stratagems ]===---
 
@@ -416,13 +424,53 @@ orbitalPrecisionStrike()
   send w
 }
 
-; TODO: Orbital Gas Strike
+orbitaGasStrike()
+{
+  send d
+  sleep 25
+  send d
+  sleep 25
+  send s
+  sleep 25
+  send d
+}
 
-; TODO: Orbital EMS Strike
+orbitEmsStrike()
+{
+  send d
+  sleep 25
+  send d
+  sleep 25
+  send a
+  sleep 25
+  send s
+}
 
-; TODO: Orbital Smoke Strike
+orbitSmokeStrike()
+{
+  send d
+  sleep 25
+  send d
+  sleep 25
+  send s
+  sleep 25
+  send w
+}
 
-; TODO: HMG Replacement
+hmgEmplacement()
+{
+  send s
+  sleep 25
+  send w
+  sleep 25
+  send a
+  sleep 25
+  send d
+  sleep 25
+  send d
+  sleep 25
+  send a
+}
 
 shieldGeneratorRelay()
 {
@@ -542,9 +590,35 @@ guardDogRover()
   send s
 }
 
-; TODO: Ballistic Shield Backpack
+ballisticShieldBackpack()
+{
+  send s
+  sleep 25
+  send d
+  sleep 25
+  send s
+  sleep 25
+  send s
+  sleep 25
+  send w
+  sleep 25
+  send a
+}
 
-; TODO: Arc Thrower
+arcThrower()
+{
+  send s
+  sleep 25
+  send w
+  sleep 25
+  send a
+  sleep 25
+  send d
+  sleep 25
+  send a
+  sleep 25
+  send d
+}
 
 shieldGeneratorPack()
 {
@@ -655,4 +729,16 @@ rocketSentry()
   send w
 }
 
-; TODO: EMS Mortar Sentry – Unknown
+emsMortarSentry()
+{
+  send s
+  sleep 25
+  send w
+  sleep 25
+  send d
+  sleep 25
+  send s
+  sleep 25
+  send d
+  sleep 25
+}
